@@ -1,0 +1,19 @@
+{
+  "name": "youtube-iframe-api",
+  "version": "0.0.1",
+  "description": "youtube-iframe-api ==================",
+  "main": "youtube.iframe-api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ivshti/youtube-iframe-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ivshti/youtube-iframe-api/issues"
+  },
+  "homepage": "https://github.com/Ivshti/youtube-iframe-api#readme"
+}
